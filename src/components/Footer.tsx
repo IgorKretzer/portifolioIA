@@ -117,10 +117,7 @@ const Footer: React.FC = () => {
         <div className="footer-bottom">
           <div className="footer-bottom-content">
             <p className="copyright">
-              © 2024 Igor Kretzer. Todos os direitos reservados.
-            </p>
-            <p className="footer-note">
-              Desenvolvido com ❤️ e muito ☕
+              © 2025 Igor Kretzer. Todos os direitos reservados.
             </p>
           </div>
         </div>
